@@ -2,5 +2,6 @@ EnableSeRestorePrivilege:  https://raw.githubusercontent.com/gtworek/PSBits/mast
 
 GMSAPasswordReader:  https://github.com/CsEnox/tools/raw/main/GMSAPasswordReader.exe
 
-
 printspoofer: https://github.com/itm4n/PrintSpoofer/releases/tag/v1.0 
+
+ligolo-ng: https://github.com/nicocha30/ligolo-ng/releases 
