@@ -12,3 +12,5 @@ RUBEUS: https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
 
 
 https://github.com/CloudyKhan/Azure-AD-Connect-Credential-Extractor/blob/main/decrypt.ps1 
+
+static nmap https://github.com/andrew-d/static-binaries/blob/master/binaries/linux/x86_64/nmap 
